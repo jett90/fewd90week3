@@ -119,14 +119,23 @@ ul {
 footer p {
   color: #cccccc;
   border-top: 1px dashed #eeeeee;
+  padding: 5px 0;
+}
+
+footer li {
+  border-top: 1px dashed #eeeeee;
+  font-size: 12px;
+  padding: 5px 0;
 }
 
 .copywrite {
   float: left;
+  padding: 30px 0;
 }
 
 .byline {
   float: right;
+  padding: 30px 0;
 }
 
 
